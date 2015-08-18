@@ -1,0 +1,7 @@
+F:\SXH\GitWorkSpace\NetCode\SmartFramework\SmartFile\obj\Debug\SmartFileOperation.csprojResolveAssemblyReference.cache
+F:\SXH\GitWorkSpace\NetCode\SmartFramework\SmartFile\bin\Debug\Smart.FileOperation.dll
+F:\SXH\GitWorkSpace\NetCode\SmartFramework\SmartFile\bin\Debug\Smart.FileOperation.pdb
+F:\SXH\GitWorkSpace\NetCode\SmartFramework\SmartFile\bin\Debug\Smart.Extensions.dll
+F:\SXH\GitWorkSpace\NetCode\SmartFramework\SmartFile\bin\Debug\Smart.Extensions.pdb
+F:\SXH\GitWorkSpace\NetCode\SmartFramework\SmartFile\obj\Debug\Smart.FileOperation.dll
+F:\SXH\GitWorkSpace\NetCode\SmartFramework\SmartFile\obj\Debug\Smart.FileOperation.pdb

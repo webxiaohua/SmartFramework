@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartExtensions", "SmartExtensions\SmartExtensions.csproj", "{3F094EF8-AC67-42A6-87A7-D3DADF7EDE8B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SmartKernel", "SmartKernel", "{63FD510B-F2F3-49AE-92B5-2C94089E32B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartFileOperation", "SmartFile\SmartFileOperation.csproj", "{2C274F9A-1E57-4583-A428-3170D2511A4C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SmartBase", "SmartBase", "{6BF0EAA3-558A-429F-8E7B-D1DBBA709E37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F094EF8-AC67-42A6-87A7-D3DADF7EDE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F094EF8-AC67-42A6-87A7-D3DADF7EDE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F094EF8-AC67-42A6-87A7-D3DADF7EDE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F094EF8-AC67-42A6-87A7-D3DADF7EDE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C274F9A-1E57-4583-A428-3170D2511A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C274F9A-1E57-4583-A428-3170D2511A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C274F9A-1E57-4583-A428-3170D2511A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C274F9A-1E57-4583-A428-3170D2511A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2C274F9A-1E57-4583-A428-3170D2511A4C} = {63FD510B-F2F3-49AE-92B5-2C94089E32B4}
+		{3F094EF8-AC67-42A6-87A7-D3DADF7EDE8B} = {6BF0EAA3-558A-429F-8E7B-D1DBBA709E37}
+	EndGlobalSection
+EndGlobal
