@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartExtensions", "SmartExtensions\SmartExtensions.csproj", "{3F094EF8-AC67-42A6-87A7-D3DADF7EDE8B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SmartKernel", "SmartKernel", "{63FD510B-F2F3-49AE-92B5-2C94089E32B4}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SmartFunction", "SmartFunction", "{63FD510B-F2F3-49AE-92B5-2C94089E32B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartFileOperation", "SmartFile\SmartFileOperation.csproj", "{2C274F9A-1E57-4583-A428-3170D2511A4C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartFileFunction", "SmartFile\SmartFileFunction.csproj", "{2C274F9A-1E57-4583-A428-3170D2511A4C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SmartBase", "SmartBase", "{6BF0EAA3-558A-429F-8E7B-D1DBBA709E37}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SmartKernal", "SmartKernal", "{A6F9CE06-7FBA-424D-9664-26C8AD026DE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCacheFunction", "SmartCache\SmartCacheFunction.csproj", "{0E1644D9-B95E-4B8D-8F2B-75C99EF5A972}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +27,17 @@ Global
 		{2C274F9A-1E57-4583-A428-3170D2511A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C274F9A-1E57-4583-A428-3170D2511A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C274F9A-1E57-4583-A428-3170D2511A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E1644D9-B95E-4B8D-8F2B-75C99EF5A972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1644D9-B95E-4B8D-8F2B-75C99EF5A972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1644D9-B95E-4B8D-8F2B-75C99EF5A972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1644D9-B95E-4B8D-8F2B-75C99EF5A972}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{2C274F9A-1E57-4583-A428-3170D2511A4C} = {63FD510B-F2F3-49AE-92B5-2C94089E32B4}
 		{3F094EF8-AC67-42A6-87A7-D3DADF7EDE8B} = {6BF0EAA3-558A-429F-8E7B-D1DBBA709E37}
+		{2C274F9A-1E57-4583-A428-3170D2511A4C} = {63FD510B-F2F3-49AE-92B5-2C94089E32B4}
+		{0E1644D9-B95E-4B8D-8F2B-75C99EF5A972} = {63FD510B-F2F3-49AE-92B5-2C94089E32B4}
 	EndGlobalSection
 EndGlobal

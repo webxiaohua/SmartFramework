@@ -5,7 +5,7 @@ using System.Text;
 using System.IO;
 
 
-namespace Smart.FileOperation
+namespace Smart.FileFunction
 {
     /// <summary>
     /// @Autor:Robin
