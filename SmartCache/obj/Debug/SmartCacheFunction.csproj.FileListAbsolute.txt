@@ -1,0 +1,4 @@
+F:\SXH\GitWorkSpace\NetCode\SmartFramework\SmartCache\bin\Debug\Smart.CacheFunction.dll
+F:\SXH\GitWorkSpace\NetCode\SmartFramework\SmartCache\bin\Debug\Smart.CacheFunction.pdb
+F:\SXH\GitWorkSpace\NetCode\SmartFramework\SmartCache\obj\Debug\Smart.CacheFunction.dll
+F:\SXH\GitWorkSpace\NetCode\SmartFramework\SmartCache\obj\Debug\Smart.CacheFunction.pdb

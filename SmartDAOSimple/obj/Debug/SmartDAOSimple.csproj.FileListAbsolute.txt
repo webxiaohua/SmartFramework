@@ -1,0 +1,4 @@
+F:\SXH\GitWorkSpace\NetCode\SmartFramework\SmartDAOSimple\bin\Debug\Smart.DAO.Simple.dll
+F:\SXH\GitWorkSpace\NetCode\SmartFramework\SmartDAOSimple\bin\Debug\Smart.DAO.Simple.pdb
+F:\SXH\GitWorkSpace\NetCode\SmartFramework\SmartDAOSimple\obj\Debug\Smart.DAO.Simple.dll
+F:\SXH\GitWorkSpace\NetCode\SmartFramework\SmartDAOSimple\obj\Debug\Smart.DAO.Simple.pdb
